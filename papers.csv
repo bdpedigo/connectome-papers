@@ -1,3 +1,4 @@
 Abbreviation, Title, Year, Organism, # nodes, # synapses, Data, Code, Arxiv, Full Text
 Witvliet et al. 2020, Connectomes across development reveal principles of brain maturation in C. elegans, 2020, C. elegans,-,-,http://nemanode.org/,-,https://www.biorxiv.org/content/10.1101/2020.04.30.066209v1.full.pdf,-
 Zheng et al. 2020, Structured sampling of olfactory input by the fly mushroom body, 2020, Drosophila, -, -, https://github.com/bocklab/pn_kc,https://github.com/bocklab/pn_kc, https://www.biorxiv.org/content/10.1101/2020.04.17.047167v2.full.pdf+html, -
+Kuan et al 2020, Dense neuronal reconstruction through X-ray holographic nano-tomography, 2020, Mouse + Drosophila, -, -, Images/skeletons only, -, https://www.nature.com/articles/s41593-020-0704-9
